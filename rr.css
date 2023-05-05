@@ -1,0 +1,45 @@
+body{
+  background-image: radial-gradient(rgb(140, 167, 226), rgb(223, 193, 149));
+}
+h1.a{
+   font-size: 50px;
+   color: dimgray;
+   text-shadow: 0 0  9px rgb(133, 29, 29);
+   font-stretch: extra-condensed;
+}
+h1.b{
+font-size: 80px;
+color: rgb(80, 77, 77);
+text-align: center;
+text-shadow: 0 0  9px rgb(133, 29, 29);
+}
+h1.c{
+   font-size: 30px;
+
+color: rgb(65, 50, 28);
+width: 990px;
+text-shadow: 0 0  9px rgb(133, 29, 29);
+text-align:right ;
+padding: 50px;
+box-shadow: 0 0 9px rgb(187, 74, 54);
+
+}
+h2 a {
+   
+ font-size: 80px;  
+ text-decoration: none;
+ color: rgba(0, 0, 0,.7);
+text-align: end; 
+ text-shadow: 0 0  90px rgb(14, 4, 4);
+
+}
+h2 a:hover{
+   text-shadow: 0 0 50px rgb(20, 107, 220);
+  color: #fff;
+}
+h1.c{
+   float: right;
+}
+.row{
+   display: inline;
+}

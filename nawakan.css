@@ -1,0 +1,76 @@
+body{
+    background: url("pp1.png") ; 
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+div{
+display: inline-flex;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align: center;
+font-size: 20px;
+}
+a{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 2em;
+    margin-left: 3em;
+    padding:10px;
+    text-decoration: none;
+    color: rgb(245, 235, 235);
+    border: 5px solid rgb(0, 30, 0);
+background-color: rgba(3, 187, 3, 0.506);
+}
+a.c{
+    margin-top: 2em;
+    margin-left: 3em;
+}
+a.d{
+    margin-left: 3em;
+    margin-top: 2em;
+}
+input{
+  color: rgb(0, 30, 0);
+    font-size: 30px;
+    width: 85%;
+    font: bold;
+    height: 60px;
+    background-color: rgba(3, 187, 3, 0.506);
+}
+button{
+font-size:50px;
+color:#fff;
+background-color: rgba(3, 187, 3, 0.506);
+}
+div.t{
+    display: inline;
+}
+::placeholder{
+    color: rgb(200, 200, 200);   
+}
+button{
+    color: #fff;
+}
+#P{
+    font-size: 20px;  
+ margin-left: 355px;
+ padding-right: 5em;
+ padding-left: 5em;
+}
+input:hover{
+    background-color: #fff;
+    color: green;
+}
+button:hover{
+    background-color: #fff;
+    color: green;
+}a:hover{
+background-color: rgb(170, 108, 27);
+}a:active{
+    font-size: 65px;
+    color: rgba(119, 119, 119, 0.9);
+    background-color: rgb(2, 66, 2);
+}
+
+

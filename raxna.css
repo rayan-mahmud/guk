@@ -1,0 +1,32 @@
+div.a{
+    display: inline-flex;
+
+margin-left: 2em;
+}
+
+.card{
+    width: 17em;
+    margin-left: 6em;
+    margin-bottom: 4em;
+    margin-top: 3em;
+}
+button a  {
+   text-decoration: none;
+   font-size: 50px;
+    
+   
+
+ 
+}
+button a:hover{
+    background-color: blue;
+    color: #fff;
+    font-size: 60;
+    text-shadow: 0 0 50px rgb(69, 133, 230);
+    box-shadow: 0 0 90px rgb(63, 106, 247);
+}
+button.aa{
+    margin-left: 30%;
+    background-color: #fff;
+   
+}
